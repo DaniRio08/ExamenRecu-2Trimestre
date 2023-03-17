@@ -6,7 +6,7 @@ public abstract class Persona {
     private String nombre;
     private int edad;
     private String dni;
-    private char sexo;
+    private char sexo; //Aquí no sé muy bien como hacer que "hombre" sea una constante por defecto
     private float peso; //suponemos que nos lo dan en kilos
     private int altura; //suponemos que nos lo dan en centímetros
 
